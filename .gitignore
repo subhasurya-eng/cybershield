@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Environment secrets — NEVER commit this
+.env
+
+# SQLite database file
+db/cybershield.db
+db/*.db
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# Mac junk
+.DS_Store
+
+# Editor folders
+.vscode/
+.idea/
